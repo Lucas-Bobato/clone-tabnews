@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Letícia, eu te amo ❤️ estou morrendo de sdds</h1>;
+  return <h1>Atualização de frase</h1>;
 }
 
 export default Home;
